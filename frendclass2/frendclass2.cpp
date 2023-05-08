@@ -10,16 +10,3 @@ public:
 };
 
 void setNama(mahasiswa& a, string pNama) {
-	a.nama = pNama;
-	cout << "Nama: " << a.nama;
-}
-
-int main()
-{
-	mahasiswa mhs;
-	setNama(mhs, "Joko Kumat");
-	cout << endl;
-	system("pause");
-	return 0;
-
-}
