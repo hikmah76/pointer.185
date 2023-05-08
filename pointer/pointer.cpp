@@ -20,5 +20,7 @@ int main()
 	mahasiswa* pMhs = &mhs; // pointer reference  reFMHS
 	pMhs->nim = 3;           // arrow operator
 	mhs.showNim();
+	system("pause");
+	return 0;
 }
 
