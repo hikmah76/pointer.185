@@ -18,5 +18,6 @@ int main()
 	mhs.showNim();      // Number Acces Operator
 
 	mahasiswa* pMhs = &mhs; // pointer reference  reFMHS
+	pMhs->nim = 3;           // arrow operator
 }
 
