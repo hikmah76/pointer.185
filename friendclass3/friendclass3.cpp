@@ -22,3 +22,9 @@ public:
 void manusia::showNilaiPelajar(pelajar& x) {
 	cout << "nilai Pelajar: " << x.nilai;
 }
+
+int main()
+{
+	manusia m;
+	pelajar p;
+	m.showNilaiPelajar(p);
