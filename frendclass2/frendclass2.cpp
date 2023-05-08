@@ -19,3 +19,6 @@ int main()
 	mahasiswa mhs;
 	setNama(mhs, "Joko Kumat");
 	system("pause");
+	return 0;
+
+}
