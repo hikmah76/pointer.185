@@ -9,3 +9,6 @@ public:
 };
 class pelajar {
 private:
+	int nilai;
+public:
+	pelajar() {
