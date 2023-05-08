@@ -16,3 +16,4 @@ void setNama(mahasiswa& a, string pNama) {
 
 int main()
 {
+	mahasiswa mhs;
